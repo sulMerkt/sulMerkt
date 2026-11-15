@@ -8,9 +8,9 @@ Right now I'm working with a petroleum trading consultancy. Their contracts are 
 
 | Project | What it is |
 | --- | --- |
-| [Numpy_Digit_Recognizer](https://github.com/USERNAME/Numpy_Digit_Recognizer) | A neural network written in NumPy only, no ML frameworks. Reaches 92.8% accuracy on held-out handwritten digits after testing extra layers, Xavier initialization and learning rates. |
-| [School_District_Analysis](https://github.com/USERNAME/School_District_Analysis) | pandas analysis of 39,170 students across 15 schools. Shows that school type, not spending, explains the gap in passing rates. |
-| [make_repos_private](https://github.com/USERNAME/make_repos_private) | Small Python utility that uses the GitHub API to switch repositories to private. |
+| [Numpy_Digit_Recognizer](https://github.com/sulMerkt/Numpy_Digit_Recognizer) | A neural network written in NumPy only, no ML frameworks. Reaches 92.8% accuracy on held-out handwritten digits after testing extra layers, Xavier initialization and learning rates. |
+| [School_District_Analysis](https://github.com/sulMerkt/School_District_Analysis) | pandas analysis of 39,170 students across 15 schools. Shows that school type, not spending, explains the gap in passing rates. |
+| [make_repos_private](https://github.com/sulMerkt/make_repos_private) | Small Python utility that uses the GitHub API to switch repositories to private. |
 
 ### Tools I use
 
