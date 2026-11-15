@@ -18,6 +18,6 @@ Python (pandas, NumPy), SQL (PostgreSQL), R, JavaScript, local LLMs (llama.cpp),
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/sulayman-merkt) · sully.merkt@gmail.com
+[LinkedIn](https://www.linkedin.com/in/sully-m-5038a4230/) · sully.merkt@gmail.com
 
 Work authorization: USA and Egypt. Open to remote work worldwide.
