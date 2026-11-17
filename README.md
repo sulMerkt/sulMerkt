@@ -1,4 +1,4 @@
-![Sulayman Merkt](Sulayman_GitHub_banner(1).png)
+![Sulayman Merkt](Sulayman_GitHub_banner (1).png)
 
 I build data pipelines and automation for businesses buried in manual work: spreadsheet chaos, repetitive data entry and disconnected tools.
 
